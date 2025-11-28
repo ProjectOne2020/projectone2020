@@ -107,14 +107,41 @@ const alejandro = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=projectone2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projectone2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=projectone2020&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=projectone2020&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projectone2020&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=projectone2020&theme=radical&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=projectone2020&color=blue&style=for-the-badge)
 
 </div>
+
+<!-- Si las estadísticas anteriores no se muestran, usa esta versión alternativa:
+
+## 📈 Actividad en GitHub
+
+<div align="center">
+
+### 🔥 Commits & Contribuciones
+
+```
+📊 Repos Públicos: 6+
+🎯 Proyectos Activos: 3
+⭐ Stars Recibidas: Creciendo
+🔧 Lenguaje Principal: JavaScript/React
+```
+
+### 💻 Tecnologías Más Utilizadas
+
+JavaScript ████████████████░░░░ 80%
+HTML/CSS   ████████░░░░░░░░░░░░ 40%
+Python     ████░░░░░░░░░░░░░░░░ 20%
+
+</div>
+
+-->
 
 ---
 
