@@ -104,44 +104,40 @@ const alejandro = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=projectone2020&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projectone2020&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=projectone2020&theme=radical&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=projectone2020&color=blue&style=for-the-badge)
-
-</div>
-
-<!-- Si las estadísticas anteriores no se muestran, usa esta versión alternativa:
-
 ## 📈 Actividad en GitHub
 
 <div align="center">
 
-### 🔥 Commits & Contribuciones
+### 🔥 Estadísticas Generales
+
+| Métrica | Valor |
+|---------|-------|
+| 📊 **Repos Públicos** | 6+ |
+| 🎯 **Proyectos Activos** | 3 Demos + Portfolio |
+| 💻 **Lenguaje Principal** | JavaScript / React |
+| 🌟 **Proyectos Destacados** | CRM, POS, Inventario |
+| 📝 **Líneas de Código** | +3,000 (React) |
+
+### 💻 Stack Principal
+
+```text
+JavaScript/React  ████████████████████░   95%
+HTML/CSS/Tailwind ████████████████░░░░░   80%
+Backend (Node.js) ██████░░░░░░░░░░░░░░░   30%
+Databases         ████░░░░░░░░░░░░░░░░░   20%
+```
+
+### 🏆 Logros
 
 ```
-📊 Repos Públicos: 6+
-🎯 Proyectos Activos: 3
-⭐ Stars Recibidas: Creciendo
-🔧 Lenguaje Principal: JavaScript/React
+✅ 3 Aplicaciones empresariales completas en producción
+✅ Portfolio profesional con demos funcionando
+✅ Sistema de roles y permisos implementado
+✅ +3,000 líneas de código limpio y documentado
+✅ 100% responsive design en todos los proyectos
 ```
-
-### 💻 Tecnologías Más Utilizadas
-
-JavaScript ████████████████░░░░ 80%
-HTML/CSS   ████████░░░░░░░░░░░░ 40%
-Python     ████░░░░░░░░░░░░░░░░ 20%
 
 </div>
-
--->
 
 ---
 
@@ -229,16 +225,6 @@ Actualmente explorando:
 
 ---
 
-## 🏆 Logros Recientes
-
-- ✅ Desarrollé 3 aplicaciones empresariales completas en React
-- ✅ Portfolio profesional con demos funcionales en producción
-- ✅ Implementación de control de acceso basado en roles
-- ✅ Arquitectura escalable con LocalStorage
-- ✅ +3,000 líneas de código limpio y documentado
-
----
-
 ## 🤝 Contribuciones
 
 Me interesa contribuir a:
@@ -263,7 +249,7 @@ Pronto compartiré contenido sobre:
 
 ### 💬 "Transformando ideas en código, código en soluciones"
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=projectone2020.projectone2020)](https://github.com/projectone2020)
+![Profile Views](https://komarev.com/ghpvc/?username=projectone2020&color=blue&style=flat-square)
 
 ---
 
