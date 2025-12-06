@@ -25,7 +25,6 @@ const alejandro = {
     ],
     enfoque: "Soluciones escalables y mantenibles",
     actualmente: "Construyendo aplicaciones SaaS",
-    aprendiendo: "Next.js, TypeScript, Cloud Architecture"
 };
 ```
 
@@ -35,6 +34,8 @@ const alejandro = {
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +59,22 @@ const alejandro = {
 ---
 
 ## 🌟 Proyectos Destacados
+
+### ⭐ [Dashly - React Admin Dashboard](https://github.com/ProjectOne2020/dashly-react-admin) 🔥 PRODUCTO COMERCIAL
+> Template profesional de admin dashboard con 15+ componentes UI y dark mode completo
+
+**🔗 [Ver Demo en Vivo](https://dashly-demo.netlify.app/)** | **🛒 [Comprar en ThemeForest](https://themeforest.net)**
+
+- 🎨 15+ componentes UI profesionales (Button, Card, Modal, Dropdown, etc.)
+- 🌙 Dark mode completo con detección automática de sistema
+- 📱 100% responsive y mobile-first
+- ⚡ 75% más rápido que templates similares
+- 📚 Documentación completa con ejemplos interactivos
+- 🎯 TypeScript-ready y completamente customizable
+
+**Tech:** React 18 · Vite 5 · Tailwind CSS 3 · JavaScript/TypeScript
+
+---
 
 ### 📊 [CRM Empresarial Pro](https://github.com/projectone2020/sistema-crm-demo)
 > Sistema completo de gestión de clientes con roles, pipeline visual y analytics
@@ -104,6 +121,38 @@ const alejandro = {
 
 ---
 
+### 🛍️ [ShopHub - Tienda Online Pro](https://github.com/projectone2020/tienda-online-demo)
+> Plataforma completa de e-commerce con panel administrativo y gestión integral
+
+**🔗 [Ver Demo en Vivo](https://tienda-online-profesional-demo.netlify.app/)**
+
+- 🛒 Catálogo de productos completo con filtros
+- 💳 Carrito de compras dinámico
+- 🎫 Sistema de cupones de descuento
+- 👤 Panel administrativo robusto
+- 📦 Gestión completa de pedidos
+- 💰 Múltiples métodos de pago
+
+**Tech:** React 18 · Tailwind CSS · E-commerce · JavaScript
+
+---
+
+### 📅 [AgendaPro - Sistema de Citas](https://github.com/ProjectOne2020/agenda-citas-demo)
+> Sistema completo de gestión de citas médicas con auto-agendamiento
+
+**🔗 [Ver Demo en Vivo](https://reserva-de-citas.netlify.app/)**
+
+- 👥 3 roles diferenciados (Admin, Recepcionista, Cliente)
+- 📆 Calendario interactivo con horarios disponibles
+- 🏥 Gestión de 6+ especialistas médicos
+- 💰 Control de pagos por cita
+- 📊 Reportes financieros automáticos
+- 🔄 Reprogramar y cancelar citas
+
+**Tech:** React 18 · Tailwind CSS · Multi-role System · LocalStorage
+
+---
+
 ## 📈 Actividad en GitHub
 
 <div align="center">
@@ -112,11 +161,12 @@ const alejandro = {
 
 | Métrica | Valor |
 |---------|-------|
-| 📊 **Repos Públicos** | 6+ |
-| 🎯 **Proyectos Activos** | 3 Demos + Portfolio |
+| 📊 **Repos Públicos** | 10+ |
+| 🎯 **Proyectos Activos** | 6 Demos + Portfolio |
 | 💻 **Lenguaje Principal** | JavaScript / React |
-| 🌟 **Proyectos Destacados** | CRM, POS, Inventario |
-| 📝 **Líneas de Código** | +3,000 (React) |
+| 🌟 **Proyectos Destacados** | Dashly, CRM, POS, Inventario, E-commerce, AgendaPro |
+| 📝 **Líneas de Código** | +6,450 (React) |
+| 🛒 **Productos Comerciales** | 1 (Dashly Admin Dashboard) |
 
 ### 💻 Stack Principal
 
@@ -130,11 +180,13 @@ Databases         ████░░░░░░░░░░░░░░░░�
 ### 🏆 Logros
 
 ```
-✅ 3 Aplicaciones empresariales completas en producción
+✅ 6 Aplicaciones empresariales completas en producción
+✅ 1 Producto comercial (Dashly) listo para venta
 ✅ Portfolio profesional con demos funcionando
 ✅ Sistema de roles y permisos implementado
-✅ +3,000 líneas de código limpio y documentado
+✅ +6,450 líneas de código limpio y documentado
 ✅ 100% responsive design en todos los proyectos
+✅ Dark mode completo en productos modernos
 ```
 
 </div>
@@ -171,9 +223,12 @@ Databases         ████░░░░░░░░░░░░░░░░�
 🔗 **Portfolio Completo:** [projectone2020.github.io/portafolio](https://projectone2020.github.io/portafolio/)
 
 **Demos Funcionales:**
-- 📊 CRM: [crm-empresarial.netlify.app](https://crm-empresarial.netlify.app/)
-- 🛒 POS: [sistema-pos-demo.netlify.app](https://sistema-pos-demo.netlify.app/)
-- 📦 Inventario: [inventario-demo.netlify.app](https://inventario-demo.netlify.app/)
+- ⭐ **Dashly (Comercial):** [dashly-demo.netlify.app](https://dashly-demo.netlify.app/) 🔥
+- 📊 **CRM:** [crm-empresarial.netlify.app](https://crm-empresarial.netlify.app/)
+- 🛒 **POS:** [sistema-pos-demo.netlify.app](https://sistema-pos-demo.netlify.app/)
+- 📦 **Inventario:** [inventario-demo.netlify.app](https://inventario-demo.netlify.app/)
+- 🛍️ **E-commerce:** [tienda-online-profesional-demo.netlify.app](https://tienda-online-profesional-demo.netlify.app/)
+- 📅 **AgendaPro:** [reserva-de-citas.netlify.app](https://reserva-de-citas.netlify.app/)
 
 ---
 
@@ -265,6 +320,6 @@ Pronto compartiré contenido sobre:
 
 **Desarrollado con** ❤️ **desde México** 🇲🇽
 
-**© 2024 Alejandro Gutiérrez | Todos los derechos reservados**
+**© 2025 Alejandro Gutiérrez | Todos los derechos reservados**
 
 </div>
