@@ -33,6 +33,7 @@ const alejandro = {
 ## 🛠️ Tech Stack
 
 ### **Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -43,6 +44,7 @@ const alejandro = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,6 +52,7 @@ const alejandro = {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -60,7 +63,24 @@ const alejandro = {
 
 ## 🌟 Proyectos Destacados
 
+### 🚀 [Google Maps Lead Scraper Pro](https://projectone2020.github.io/maps-scraper-web/) 🔥 NUEVO LANZAMIENTO
+>
+> Software de escritorio empresarial para generación masiva de leads con evasión de detección
+
+**🔗 [Ver Página de Producto](https://projectone2020.github.io/maps-scraper-web/)**
+
+- 🕵️‍♂️ **Evasión de Detección**: Navegación humana simulada y anti-bot
+- 📱 **Deep Scroll**: Extracción profunda de resultados ilimitados
+- 🔐 **Sistema de Licencias**: Protección por Hardware ID (HWID Lock)
+- 📥 **Exportación**: CSV/Excel limpio y organizado
+- ⚡ **Multi-Hilo**: Rendimiento optimizado
+
+**Tech:** Python 3.12 · Selenium · Tkinter · PyInstaller · Automation
+
+---
+
 ### ⭐ [Dashly - React Admin Dashboard](https://github.com/ProjectOne2020/dashly-react-admin) 🔥 PRODUCTO COMERCIAL
+>
 > Template profesional de admin dashboard con 15+ componentes UI y dark mode completo
 
 **🔗 [Ver Demo en Vivo](https://dashly-demo.netlify.app/)** | **🛒 [Comprar en ThemeForest](https://themeforest.net)**
@@ -77,6 +97,7 @@ const alejandro = {
 ---
 
 ### 📊 [CRM Empresarial Pro](https://github.com/projectone2020/sistema-crm-demo)
+>
 > Sistema completo de gestión de clientes con roles, pipeline visual y analytics
 
 **🔗 [Ver Demo en Vivo](https://crm-empresarial.netlify.app/)**
@@ -92,6 +113,7 @@ const alejandro = {
 ---
 
 ### 🛒 [Sistema POS Pro](https://github.com/projectone2020/sistema-pos-demo)
+>
 > Punto de venta profesional con scanner de códigos y gestión completa
 
 **🔗 [Ver Demo en Vivo](https://sistema-pos-demo.netlify.app/)**
@@ -107,6 +129,7 @@ const alejandro = {
 ---
 
 ### 📦 [Sistema de Inventario Pro](https://github.com/projectone2020/sistema-inventario-demo)
+>
 > Gestión empresarial de almacén con dashboard y analytics
 
 **🔗 [Ver Demo en Vivo](https://inventario-demo.netlify.app/)**
@@ -122,6 +145,7 @@ const alejandro = {
 ---
 
 ### 🛍️ [ShopHub - Tienda Online Pro](https://github.com/projectone2020/tienda-online-demo)
+>
 > Plataforma completa de e-commerce con panel administrativo y gestión integral
 
 **🔗 [Ver Demo en Vivo](https://tienda-online-profesional-demo.netlify.app/)**
@@ -138,6 +162,7 @@ const alejandro = {
 ---
 
 ### 📅 [AgendaPro - Sistema de Citas](https://github.com/ProjectOne2020/agenda-citas-demo)
+>
 > Sistema completo de gestión de citas médicas con auto-agendamiento
 
 **🔗 [Ver Demo en Vivo](https://reserva-de-citas.netlify.app/)**
@@ -164,9 +189,9 @@ const alejandro = {
 | 📊 **Repos Públicos** | 10+ |
 | 🎯 **Proyectos Activos** | 6 Demos + Portfolio |
 | 💻 **Lenguaje Principal** | JavaScript / React |
-| 🌟 **Proyectos Destacados** | Dashly, CRM, POS, Inventario, E-commerce, AgendaPro |
+| 🌟 **Proyectos Destacados** | Maps Scraper, Dashly, CRM, POS, Inventario, E-commerce, AgendaPro |
 | 📝 **Líneas de Código** | +6,450 (React) |
-| 🛒 **Productos Comerciales** | 1 (Dashly Admin Dashboard) |
+| 🛒 **Productos Comerciales** | 2 (Dashly + Maps Scraper) |
 
 ### 💻 Stack Principal
 
@@ -180,8 +205,8 @@ Databases         ████░░░░░░░░░░░░░░░░�
 ### 🏆 Logros
 
 ```
-✅ 6 Aplicaciones empresariales completas en producción
-✅ 1 Producto comercial (Dashly) listo para venta
+✅ 7 Aplicaciones empresariales completas en producción
+✅ 2 Productos comerciales (Dashly, Maps Scraper) listos para venta
 ✅ Portfolio profesional con demos funcionando
 ✅ Sistema de roles y permisos implementado
 ✅ +6,450 líneas de código limpio y documentado
@@ -223,6 +248,7 @@ Databases         ████░░░░░░░░░░░░░░░░�
 🔗 **Portfolio Completo:** [projectone2020.github.io/portafolio](https://projectone2020.github.io/portafolio/)
 
 **Demos Funcionales:**
+
 - ⭐ **Dashly (Comercial):** [dashly-demo.netlify.app](https://dashly-demo.netlify.app/) 🔥
 - 📊 **CRM:** [crm-empresarial.netlify.app](https://crm-empresarial.netlify.app/)
 - 🛒 **POS:** [sistema-pos-demo.netlify.app](https://sistema-pos-demo.netlify.app/)
@@ -246,10 +272,11 @@ Databases         ████░░░░░░░░░░░░░░░░�
 ## 💡 Filosofía de Desarrollo
 
 > "El código limpio no es escrito siguiendo un conjunto de reglas. No te conviertes en un artesano del software al aprender una lista de heurísticas. El profesionalismo y la artesanía provienen de los valores que impulsan las disciplinas."
-> 
+>
 > — Robert C. Martin (Clean Code)
 
 **Mis Principios:**
+
 - 🎯 **Código limpio y mantenible** - Legibilidad sobre brevedad
 - 🧪 **Testing y calidad** - Confianza en cada deployment
 - 📚 **Documentación clara** - El código es para humanos
@@ -261,6 +288,7 @@ Databases         ████░░░░░░░░░░░░░░░░�
 ## 🎓 Aprendizaje Continuo
 
 Actualmente explorando:
+
 - 🔷 **Next.js** - Framework React full-stack
 - 📘 **TypeScript** - JavaScript con superpoderes
 - ☁️ **Cloud Architecture** - AWS / Azure
@@ -283,6 +311,7 @@ Actualmente explorando:
 ## 🤝 Contribuciones
 
 Me interesa contribuir a:
+
 - 🌟 Proyectos Open Source de React
 - 📚 Herramientas para desarrolladores
 - 🎓 Recursos educativos de programación
@@ -293,6 +322,7 @@ Me interesa contribuir a:
 ## 📝 Blog & Contenido
 
 Pronto compartiré contenido sobre:
+
 - React y mejores prácticas
 - Arquitectura de aplicaciones web
 - Tips de desarrollo full-stack
