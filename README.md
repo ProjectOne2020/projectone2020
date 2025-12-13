@@ -63,7 +63,7 @@ const alejandro = {
 
 ## 🌟 Proyectos Destacados
 
-### 🚀 [Google Maps Lead Scraper Pro](https://projectone2020.github.io/maps-scraper-web/) 🔥 NUEVO LANZAMIENTO
+### 🚀 [Maps Lead Scraper Pro](https://projectone2020.github.io/maps-scraper-web/) 🔥 NUEVO LANZAMIENTO
 >
 > Software de escritorio empresarial para generación masiva de leads con evasión de detección
 
