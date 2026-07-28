@@ -6,8 +6,8 @@
 
   <br />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/alejandro-gutierrez-9a0318107)
-  [![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](alejandro.gutierrezb31@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-gutierrez-9a0318107/)
+[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail)](mailto:alejandro.gutierrezb31@gmail.com)
   <br />
   <br />
 
