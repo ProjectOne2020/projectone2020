@@ -3,7 +3,7 @@
   <h3>Software Architect | Solo Founder | AI Systems & Cryptographic Protocol Researcher (PoHI)</h3>
   <p><b>Ponente Oficial en GDG Monterrey DevFest 2026</b> · Autor Publicado en <b>Revista Editorial K. Nexus (2026)</b> · Fundador de <b>Claude Code en Español</b></p>
   
-  <p>Construyo plataformas SaaS B2B/B2B2C en producción, herramientas de optimización de contexto para agentes de IA e infraestructuras de verificación criptográfica. Combino 15+ años de rigor en automatización industrial crítica (Tier-1 automotriz) con arquitectura moderna serverless y flujos deterministas de IA.</p>
+  <p>Construyo plataformas SaaS B2B/B2B2C en producción, herramientas de optimización de contexto para agentes de IA, infraestructuras de verificación criptográfica y arquitecturas backend de alta concurrencia para videojuegos y mundos virtuales.</p>
 
   <br />
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Ecosistemas y Productos en Producción
+### 🚀 Ecosistemas SaaS y Productos en Producción
 
 #### 🌐 [Radar IA — Plataforma GEO (Generative Engine Optimization) para LATAM](https://radar.omniflowcreator.com)
 *Founder & Lead Architect (En Producción)*
@@ -46,29 +46,39 @@
 - Protocolo criptográfico *open-source* diseñado para mitigar el fraude algorítmico y los ataques Sybil en redes P2P utilizando biometría conductual sin recolectar datos personales identificables (PII).
 - Combina el tercer momento estadístico (**Asimetría de Fisher-Pearson**) en la dinámica de tecleo con **Pruebas de Conocimiento Cero (zk-SNARKs Groth16 sobre curva BN254 y circuitos R1CS en Circom)** para condicionar la liberación de contratos inteligentes (*Smart Contracts*).
 
-#### 📄 Otros Sistemas Desarrollados
+#### 📄 Otros Sistemas B2B Desarrollados
+- **ContractaFácil / CuentasClaras:** Plataforma SaaS de generación ágil de presupuestos y contratos comerciales con seguimiento en tiempo real y cobros vía Stripe para contratistas en EE. UU. y LATAM.
 - **Proyecto Saluid (Fintech P2P Internacional):** Plataforma de transferencias transfronterizas P2P (NestJS, Prisma, React 18, Socket.io) cuyo motor de validación algorítmica de riesgo sirvió como caso de estudio para publicación editorial científica.
-- **ContractaFácil / CuentasClaras:** Plataforma SaaS de generación ágil de presupuestos y contratos comerciales para contratistas (Next.js, Supabase, Stripe).
-- **NeuroVoz / Copiloto IC & OmniFlow Control Center:** Asistente conversacional de voz de ultrabaja latencia (<185ms vía Groq) y suite de orquestación multi-agente.
+- **NeuroVoz / Copiloto IC & OmniFlow Control Center:** Asistente conversacional de voz de ultrabaja latencia (<185ms vía Groq) y suite local-first de orquestación multi-agente con validación determinista.
 
 ---
 
-### 📚 Publicaciones, Conferencias y Trayectoria Industrial
+### 🎮 Ingeniería de Backend para Videojuegos & Mundos Virtuales (Roblox & Second Life)
+
+- **⚔️ Arquitectura Backend Battle Royale en Roblox (15 Módulos Server-Authoritative en Luau):**
+  - Diseño y desarrollo de un backend multijugador en tiempo real (estado distribuido a 60 ticks/s) compuesto por **15 subsistemas interconectados**: sistema de lobbys y matchmaking, gestión de 5 portales de partida simultáneos en distintas fases, motor autoritativo de daño/vida/muerte, tormenta dinámica, detección automática de último superviviente, recolección de basura sin *memory leaks*, **Anti-Cheat Server-Side** (validación de hitboxes, teletransportes y *rate-limiting* de eventos remotos) y persistencia transaccional en `DataStores`.
+- **🛠️ ProfileSafe — Visual Data Editor & Session Unlocker (Plugin para Roblox Studio en Luau):**
+  - Herramienta B2D nativa (`DockWidgetPluginGui`) para desarrolladores de Roblox que detecta automáticamente estructuras `ProfileService` / `ProfileStore` frente a DataStores genéricos, aísla y protege claves críticas (`MetaData`, `ActiveSession`, `GlobalUpdates`), ofrece edición visual recursiva con vista previa de diferencias (*Diff Modal*) antes de `UpdateAsync` e incorpora desbloqueo de emergencia de sesiones colgadas (*Emergency Force-Release Session Lock*).
+- **📡 [Sentinel — Discord Parcel & Visitor Radar v1.0](https://marketplace.secondlife.com/p/Sentinel-Discord-Parcel-Visitor-Radar-v10/28749960) (Second Life Marketplace — LSL Mono):**
+  - Sistema autónomo de telemetría parcelaria en tiempo real programado en LSL (Mono) con detección poligonal exacta (`llGetAgentList`), memoria flash no volátil en *Linkset Data (LSD)* inmune a reinicios de simulador, algoritmo *debounce* anti-spam de 180s en bordes de parcela y cola HTTP con *throttling* directo a Webhooks de Discord sin servidores externos.
+
+---
+
+### 📚 Publicaciones Científicas, Conferencias y Comunidad
 
 - **📰 Artículo Publicado en Revista Digital — *Revista Editorial K. Nexus (2026)*:**
   - **Título:** *"Validación de riesgo financiero en P2P con IA"*
   - **Resumen:** Investigación técnica y caso de estudio sobre la mitigación algorítmica de fraude en transferencias financieras descentralizadas y validación de riesgo en tiempo real mediante modelos de Inteligencia Artificial.
 - **🎤 Ponente Oficial — GDG Monterrey DevFest 2026:** Ponencia *"De la idea al producto: Construyendo software real con agentes de IA"*.
 - **👥 Fundador de "Claude Code en Español":** Comunidad técnica hispanohablante enfocada en ingeniería de contexto, flujos de desarrollo defensivo asistido por IA y agentes autónomos de codificación.
-- **🏭 Ingeniería de Automatización Industrial (Tier-1):** Lideré la automatización integral del departamento de almacén e inventarios en **NIFCO KOREA** (multinacional automotriz Tier-1 en Monterrey, N.L.), transformando flujos manuales en sistemas digitales de trazabilidad en tiempo real.
 
 ---
 
 ### 💻 Stack Tecnológico Principal
 
-*   **Arquitectura & Core:** Next.js (App Router), React, TypeScript, Node.js, NestJS, Python, WebAssembly (WASM).
-*   **Infraestructura & Datos:** Supabase (PostgreSQL, RLS, Edge Functions), Inngest, Cloudflare Workers/D1, Prisma, Dexie.js (Offline-First), Vercel.
-*   **Inteligencia Artificial & Agentes:** Ingeniería de Contexto (`AGENTS.md` / `ctxopt`), Orquestación Multi-LLM (Claude Code, OpenAI, Anthropic, Gemini, Perplexity, Groq), copilotos de voz de baja latencia.
+*   **Arquitectura & Core:** Next.js (App Router), React, TypeScript, Node.js, NestJS, Python, Luau (Roblox), LSL Mono (Second Life), WebAssembly (WASM).
+*   **Infraestructura & Datos:** Supabase (PostgreSQL, RLS, Edge Functions), Inngest, Cloudflare Workers/D1, Prisma, Dexie.js (Offline-First), Roblox DataStoreService, Vercel.
+*   **Inteligencia Artificial & Agentes:** Ingeniería de Contexto (`AGENTS.md` / `ctxopt`), Orquestación Multi-LLM (Claude Code, Google Antigravity, OpenAI, Anthropic, Gemini, Perplexity, Groq), copilotos de voz de baja latencia.
 *   **Finanzas, Legal & Web3:** Stripe & Stripe Connect, Facturación CFDI 4.0 (Facturapi), Criptografía ZK-SNARKs (Circom / Groth16 / BN254 / R1CS), Solidity Smart Contracts.
 
 ---
