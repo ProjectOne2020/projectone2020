@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy Alejandro Gutiérrez 👋</h1>
   <h3>Software Architect | Solo Founder | AI Systems & Cryptographic Protocol Researcher (PoHI)</h3>
-  <p><b>Ponente Oficial en GDG Monterrey DevFest 2026</b> · Autor Publicado en <b>Revista Editorial K. Nexus (2026)</b> · Fundador de <b>Claude Code en Español</b></p>
+  <p><b>Ponente Oficial en GDG Monterrey DevFest 2026</b> · Autor en <a href="https://www.kinedrik.com/k-nexus/"><b>Revista Editorial K. Nexus (2026)</b></a> · Fundador de <b>Claude Code en Español</b></p>
   
   <p>Construyo plataformas SaaS B2B/B2B2C en producción, herramientas de optimización de contexto para agentes de IA, infraestructuras de verificación criptográfica y arquitecturas backend de alta concurrencia para videojuegos y mundos virtuales.</p>
 
@@ -11,6 +11,7 @@
   [![Radar IA](https://img.shields.io/badge/Radar_IA-Plataforma_GEO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://radar.omniflowcreator.com)
   [![ContractaFácil](https://img.shields.io/badge/ContractaF%C3%A1cil-SaaS_B2B-2563EB?style=for-the-badge&logo=stripe&logoColor=white)](https://www.contractafacil.com)
   [![ctxopt](https://img.shields.io/badge/ctxopt-CLI_&_Kit_de_Gu%C3%ADas-7C3AED?style=for-the-badge&logo=github)](https://github.com/ProjectOne2020/ctxopt)
+  [![K. Nexus](https://img.shields.io/badge/Revista_K._Nexus-Edici%C3%B3n_2026-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kinedrik.com/wp-content/uploads/folletos/02-Edicion-K.Nexus-2026.pdf)
   [![Sentinel SL](https://img.shields.io/badge/Sentinel_v1.0-Second_Life_Marketplace-F59E0B?style=for-the-badge&logo=discord&logoColor=white)](https://marketplace.secondlife.com/p/Sentinel-Discord-Parcel-Visitor-Radar-v10/28749960)
   [![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.gutierrezb31@gmail.com)
 
@@ -76,8 +77,9 @@
 
 ### 📚 Publicaciones Científicas, Conferencias y Comunidad
 
-- **📰 Artículo Publicado en Revista Digital — *Revista Editorial K. Nexus (2026)*:**
+- **📰 Artículo Publicado en Revista Digital — [*Revista Editorial K. Nexus (2026)*](https://www.kinedrik.com/k-nexus/):**
   - **Título:** *"Validación de riesgo financiero en P2P con IA"*
+  - **Publicación:** [K. Nexus — 2da Edición 2026 (Portal Oficial)](https://www.kinedrik.com/k-nexus/) · 👉 [Leer PDF de la Revista (Edición 02-2026)](https://kinedrik.com/wp-content/uploads/folletos/02-Edicion-K.Nexus-2026.pdf)
   - **Resumen:** Investigación técnica y caso de estudio sobre la mitigación algorítmica de fraude en transferencias financieras descentralizadas y validación de riesgo en tiempo real mediante modelos de Inteligencia Artificial (basado en el desarrollo de *Proyecto Saluid*).
 - **🎤 Ponente Oficial — GDG Monterrey DevFest 2026:** Ponencia *"De la idea al producto: Construyendo software real con agentes de IA"*.
 - **👥 Fundador de "Claude Code en Español":** Comunidad técnica hispanohablante enfocada en ingeniería de contexto, flujos de desarrollo defensivo asistido por IA y agentes autónomos de codificación.
