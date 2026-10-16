@@ -7,7 +7,7 @@
 
   <br />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-guti%C3%A9rrez-9a0318107/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alejandro-gutierrez-ai/)
   [![Radar IA](https://img.shields.io/badge/Radar_IA-GEO_Platform-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://radar.omniflowcreator.com)
   [![ctxopt](https://img.shields.io/badge/ctxopt-CLI_&_Guide_Pack-7C3AED?style=for-the-badge&logo=github)](https://github.com/ProjectOne2020/ctxopt)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.gutierrezb31@gmail.com)
