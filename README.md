@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy Alejandro Gutiérrez 👋</h1>
   <h3>Software Architect | Solo Founder | AI Systems & Cryptographic Protocol Researcher (PoHI)</h3>
-  <p><b>Ponente en GDG Monterrey DevFest 2026</b> · Fundador de <b>Claude Code en Español</b></p>
+  <p><b>Ponente Oficial en GDG Monterrey DevFest 2026</b> · Autor Publicado en <b>Revista Editorial K. Nexus (2026)</b> · Fundador de <b>Claude Code en Español</b></p>
   
   <p>Construyo plataformas SaaS B2B/B2B2C en producción, herramientas de optimización de contexto para agentes de IA e infraestructuras de verificación criptográfica. Combino 15+ años de rigor en automatización industrial crítica (Tier-1 automotriz) con arquitectura moderna serverless y flujos deterministas de IA.</p>
 
@@ -37,35 +37,39 @@
 
 #### 🐾 [MaskotIA — Sistema Operativo de Salud Animal B2B2C](https://github.com/ProjectOne2020/maskotia-public)
 *Founder & Lead Architect (En Producción)*
-- Infraestructura B2B2C que procesa historiales médicos, triaje clínico asistido, telemedicina y transacciones multi-party para el sector veterinario.
-- **Arquitectura:** Next.js 16 (App Router), Supabase (PostgreSQL + RLS), Llama 3.3 (vía Groq), Stripe Connect y facturación electrónica CFDI 4.0 (Facturapi).
+- Infraestructura B2B2C que procesa historiales médicos SOAP por voz, triaje clínico asistido, telemedicina y transacciones multi-party para el sector veterinario.
+- **Arquitectura:** Next.js 16 (App Router), Supabase (PostgreSQL + RLS), Llama 3.3 (vía Groq), arquitectura *offline-first* (Dexie/IndexedDB), Stripe Connect y facturación electrónica CFDI 4.0 (Facturapi).
 - **Innovación:** Motor de seguridad clínica determinista (*Hardcoded Safety Rules*) que audita las inferencias generadas por IA en tiempo real antes de mostrarlas al usuario.
 
-#### 🛡️ Protocolo PoHI (Proof of Human Intent) & Escrow P2P
-*Autor e Investigador (Publicado en Revista K. Nexus, 2026)*
-- Protocolo criptográfico diseñado para mitigar el fraude algorítmico y los ataques Sybil en redes P2P utilizando biometría conductual sin exponer datos sensibles.
-- Combina el tercer momento estadístico (**Asimetría de Fisher-Pearson**) en la dinámica de tecleo con **Pruebas de Conocimiento Cero (zk-SNARKs Groth16 sobre curva BN254 en Circom)** para condicionar la liberación de contratos inteligentes (*Smart Contracts*).
+#### 🛡️ [Protocolo PoHI (Proof of Human Intent) & Escrow P2P](https://github.com/ProjectOne2020/pohi-protocol-poc)
+*Autor e Investigador*
+- Protocolo criptográfico *open-source* diseñado para mitigar el fraude algorítmico y los ataques Sybil en redes P2P utilizando biometría conductual sin recolectar datos personales identificables (PII).
+- Combina el tercer momento estadístico (**Asimetría de Fisher-Pearson**) en la dinámica de tecleo con **Pruebas de Conocimiento Cero (zk-SNARKs Groth16 sobre curva BN254 y circuitos R1CS en Circom)** para condicionar la liberación de contratos inteligentes (*Smart Contracts*).
 
 #### 📄 Otros Sistemas Desarrollados
-- **ContractaFácil:** Plataforma legal-tech de generación automatizada de contratos mercantiles y laborales adaptados al marco jurídico mexicano.
-- **OmniFlow Control Center & WhatsApp Cloud NLP:** Orquestación multi-agente e interpretación semántica de conversaciones sobre WhatsApp Cloud API.
+- **Proyecto Saluid (Fintech P2P Internacional):** Plataforma de transferencias transfronterizas P2P (NestJS, Prisma, React 18, Socket.io) cuyo motor de validación algorítmica de riesgo sirvió como caso de estudio para publicación editorial científica.
+- **ContractaFácil / CuentasClaras:** Plataforma SaaS de generación ágil de presupuestos y contratos comerciales para contratistas (Next.js, Supabase, Stripe).
+- **NeuroVoz / Copiloto IC & OmniFlow Control Center:** Asistente conversacional de voz de ultrabaja latencia (<185ms vía Groq) y suite de orquestación multi-agente.
 
 ---
 
-### 🎤 Comunidad, Divulgación y Trayectoria Industrial
+### 📚 Publicaciones, Conferencias y Trayectoria Industrial
 
-- **Ponente Oficial — GDG Monterrey DevFest 2026:** Ponencia magistral *"De la idea al producto: Construyendo software real con agentes de IA"*.
-- **Fundador de "Claude Code en Español":** Comunidad hispanohablante enfocada en ingeniería de contexto, flujos multi-agente y desarrollo de software en producción.
-- **Ingeniería de Automatización Industrial (Tier-1):** Trayectoria previa liderando ingeniería de mantenimiento, robótica industrial y programación de PLCs para líneas de inyección automotriz en **NIFCO KOREA** (proveedor Tier-1 de Kia y Hyundai), aplicando estándares de cero tolerancia a fallos al diseño de software determinista.
+- **📰 Artículo Publicado en Revista Digital — *Revista Editorial K. Nexus (2026)*:**
+  - **Título:** *"Validación de riesgo financiero en P2P con IA"*
+  - **Resumen:** Investigación técnica y caso de estudio sobre la mitigación algorítmica de fraude en transferencias financieras descentralizadas y validación de riesgo en tiempo real mediante modelos de Inteligencia Artificial.
+- **🎤 Ponente Oficial — GDG Monterrey DevFest 2026:** Ponencia *"De la idea al producto: Construyendo software real con agentes de IA"*.
+- **👥 Fundador de "Claude Code en Español":** Comunidad técnica hispanohablante enfocada en ingeniería de contexto, flujos de desarrollo defensivo asistido por IA y agentes autónomos de codificación.
+- **🏭 Ingeniería de Automatización Industrial (Tier-1):** Lideré la automatización integral del departamento de almacén e inventarios en **NIFCO KOREA** (multinacional automotriz Tier-1 en Monterrey, N.L.), transformando flujos manuales en sistemas digitales de trazabilidad en tiempo real.
 
 ---
 
 ### 💻 Stack Tecnológico Principal
 
-*   **Arquitectura & Core:** Next.js (App Router), React, TypeScript, Node.js, Python.
-*   **Infraestructura & Datos:** Supabase (PostgreSQL, RLS, Edge Functions), Inngest, Vercel Edge Networks.
-*   **Inteligencia Artificial & Agentes:** Ingeniería de Contexto (`AGENTS.md` / `ctxopt`), Orquestación Multi-LLM (OpenAI, Anthropic Claude, Google Gemini, Perplexity, Groq), flujos deterministas de validación.
-*   **Finanzas, Legal & Web3:** Stripe & Stripe Connect (flujos multi-party y multi-moneda), Facturación CFDI 4.0 (Facturapi), Criptografía ZK-SNARKs (Circom / Groth16 / BN254), Smart Contracts.
+*   **Arquitectura & Core:** Next.js (App Router), React, TypeScript, Node.js, NestJS, Python, WebAssembly (WASM).
+*   **Infraestructura & Datos:** Supabase (PostgreSQL, RLS, Edge Functions), Inngest, Cloudflare Workers/D1, Prisma, Dexie.js (Offline-First), Vercel.
+*   **Inteligencia Artificial & Agentes:** Ingeniería de Contexto (`AGENTS.md` / `ctxopt`), Orquestación Multi-LLM (Claude Code, OpenAI, Anthropic, Gemini, Perplexity, Groq), copilotos de voz de baja latencia.
+*   **Finanzas, Legal & Web3:** Stripe & Stripe Connect, Facturación CFDI 4.0 (Facturapi), Criptografía ZK-SNARKs (Circom / Groth16 / BN254 / R1CS), Solidity Smart Contracts.
 
 ---
 
